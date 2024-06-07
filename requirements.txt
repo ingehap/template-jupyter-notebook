@@ -1,0 +1,23 @@
+cookiecutter
+empiricaldist
+fairlearn
+fitter
+matplotlib
+netCDF4
+numpy
+pandas
+plotly
+ppscore
+pycountry
+scikit-image
+scikit-learn
+scipy
+seaborn
+snakemake
+streamlit
+wrapt
+
+# Learning
+# ========
+# https://github.com/github/codespaces-jupyter
+#
